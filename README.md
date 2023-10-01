@@ -1,0 +1,1 @@
+# FX505DT-hackintosh-tips
