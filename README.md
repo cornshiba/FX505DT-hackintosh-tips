@@ -16,4 +16,5 @@ Great, we disabled CSM, now we need to enable Above 4g decoding so we have to us
 
 Here's where its located:
 ![Above4GDecoding](Above4GDecoding.gif)
+
 To enable the first option, just click enter. to save it click F10.
