@@ -17,3 +17,10 @@ Great, we disabled CSM, now we need to enable Above 4g decoding so we have to us
 It should look like this if you did it right:
 
 ![Above4GDecoding](Above4GDecoding.gif)
+
+
+# Credits
+Apple for macOS
+[Acidanthera](https://github.com/acidanthera) for Opencore
+[DavidS95](https://github.com/DavidS95) for Smokeless-UMAF
+Asus for this amazing laptop.
