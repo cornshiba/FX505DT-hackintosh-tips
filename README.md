@@ -25,5 +25,5 @@ Apple for macOS
 [Acidanthera](https://github.com/acidanthera) for Opencore 
 
 [DavidS95](https://github.com/DavidS95) for Smokeless-UMAF 
-
+Asus for this amazing laptop.
 Asus for this amazing laptop.
