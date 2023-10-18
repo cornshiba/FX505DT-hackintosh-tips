@@ -23,4 +23,4 @@ It should look like this if you did it right:
 - [Apple](https://www.apple.com) for macOS 
 - [Acidanthera](https://github.com/acidanthera) for Opencore 
 - [DavidS95](https://github.com/DavidS95) for Smokeless-UMAF 
-- Asus for this amazing laptop.
+- [Asus](https://www.asus.com/) for this amazing laptop.
