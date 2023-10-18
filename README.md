@@ -20,7 +20,7 @@ It should look like this if you did it right:
 
 
 # Credits
-Apple for macOS
-[Acidanthera](https://github.com/acidanthera) for Opencore
-[DavidS95](https://github.com/DavidS95) for Smokeless-UMAF
+Apple for macOS 
+[Acidanthera](https://github.com/acidanthera) for Opencore 
+[DavidS95](https://github.com/DavidS95) for Smokeless-UMAF 
 Asus for this amazing laptop.
